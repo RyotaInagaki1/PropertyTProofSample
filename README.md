@@ -1,4 +1,4 @@
-# Sample Code for Property (T) via Semidefinte Programming
+# Sample Code for Proving Property (T) via Semidefinte Programming
 Here we have MatLab and Mathematica code proving Kazhdan's Property (T) for $SL_3(\mathbb{Z})$ via Semidefinite Methods. This accompanies Chapter 5 of my senior thesis titled \textit{Applications of Semidefinite Programming and Multiplicative Weights in Proving Kazhdan’s Property (T).}
 
 Instructions:
