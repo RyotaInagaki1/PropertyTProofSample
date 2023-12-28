@@ -6,7 +6,7 @@ Instructions:
 1. Install SeDuMi and YalMip.
 2. Run SL3PrePostProcess.nb up until the line delta to disk.
 3. Run Position_and_Laplacian.ipynb
-4. Run SL3SDP.mlx
+4. Run SL3SDP.mlx on MatLab.
 5. Run the rest of SL3PrePostProcess.nb
 
-Credit is given to Tim Netzer and Andreas Thom whose code I modified to create SL3PrePostPRocess.nb.
+Credit is given to Tim Netzer and Andreas Thom whose code I supplemented with the MatLab Program.
