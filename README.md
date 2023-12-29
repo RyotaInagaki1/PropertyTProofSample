@@ -9,4 +9,4 @@ Instructions:
 4. Run SL3SDP.mlx on MatLab.
 5. Run the rest of SL3PrePostProcess.nb
 
-We thank Tim Netzer and Andreas Thom (the authors of the 2015 paper \textit{Kazhdan's Property (T) via Semidefinite Optimization}), whose code I supplemented with the MatLab Program and IPython Notebook.
+We thank Tim Netzer and Andreas Thom (the authors of the 2015 paper \textit{Kazhdan's Property (T) via Semidefinite Optimization}), who wrote the Mathematica code that I modified and supplemented with the MatLab Program and IPython Notebook.
